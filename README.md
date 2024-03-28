@@ -1,6 +1,5 @@
 <h1 align="center">
 	Hi there, I'm Stepa!
-	<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <div align="center">
 	<img width="50" src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" title="JavaScript"/>
