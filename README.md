@@ -1,13 +1,8 @@
-<div>
-	<h1>
-		Hi there, I'm Stepa!
-	</h1>
-	<h3>
-		Frontend Developer from Moscow
-	</h3>
-</div>
+# Hi there, I'm Stepa!
 
-### Languages and tools
+Frontend Developer from Moscow
+
+## My tech stack
 <div>
 	<img width="50" src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" title="TypeScript"/>
@@ -19,7 +14,7 @@
 
 
 
-### Stats
+## Stats
 <div>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stpavlenko&theme=apprentice"/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stpavlenko&theme=apprentice"/>	
